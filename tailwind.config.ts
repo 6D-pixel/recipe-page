@@ -11,7 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        skin: '#F3E5D8',
       },
+      fontFamily: {
+        outfit: ["var(--font-outfit)"],
+        young_serif: ['var(--font-young-serif)'],
+      }
     },
   },
   plugins: [],
