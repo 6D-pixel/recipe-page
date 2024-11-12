@@ -5,7 +5,7 @@ import Ingredients from "../components/Ingredients";
 import Instructions from "../components/Instructions";
 export default function Home() {
   return (
-    <section className="bg-white lg:mx-[22rem] lg:my-[7.69rem] lg:rounded-xl font-outfit">
+    <section className="bg-white lg:mx-[22rem] lg:my-[7.69rem] lg:rounded-2xl font-outfit">
       <div >
         <div className="lg:p-[2.5rem]">
           <div className="flex relative h-[300px] w-full">
