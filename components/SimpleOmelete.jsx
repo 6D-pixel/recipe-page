@@ -2,7 +2,7 @@ function SimpleOmelete() {
   return (
     <div className="">
           <h1
-            className={` mt-[2.5rem] font-semibold text-4xl font-young_serif text-black`}
+            className={` mt-[1rem] font-medium text-4xl font-young_serif text-black`}
           >
             Simple Omelette Recipe
           </h1>
